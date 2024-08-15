@@ -144,5 +144,5 @@ Memory location : 5
 Memory Value : 98
 
 ****************************
-* AKSHAR *
+* AKSHAR
 ****************************
