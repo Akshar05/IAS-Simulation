@@ -144,6 +144,5 @@ Memory location : 5
 Memory Value : 98
 
 ****************************
-*    VINEET PRIYEDARSHI    *
-*       IMT2021018         *
+* AKSHAR *
 ****************************
